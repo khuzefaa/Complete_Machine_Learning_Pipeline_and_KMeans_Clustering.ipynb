@@ -1,0 +1,2 @@
+# Complete_Machine_Learning_Pipeline_and_KMeans_Clustering.ipynb
+A complete machine learning pipeline using Scikit-learn, followed by an implementation and explanation of K-Means clustering. The pipeline section outlines essential steps such as importing libraries, loading datasets, performing (EDA), data cleaning, preprocessing, dimensionality reduction with PCA, model training, evaluation, and tuning.
